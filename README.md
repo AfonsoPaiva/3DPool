@@ -1,6 +1,7 @@
 # 3DPool - 3D Billiards Simulation
 
-A 3D pool game implementation using OpenGL and C++ featuring realistic physics, collision detection, and 3D rendering.
+
+A 3D pool game implementation using OpenGL and C++ featuring animation, collision detection, and 3D rendering.
 
 ![3DPool Game Demonstration](screenshots/gameplay.png)
 

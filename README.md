@@ -3,7 +3,7 @@
 
 A 3D pool game implementation using OpenGL and C++ featuring animation, collision detection, and 3D rendering.
 
-![3DPool Game Demonstration](screenshots/gameplay.png)
+[![3dpoolgiff.gif](https://i.postimg.cc/vHzZ95sh/3dpoolgiff.gif)](https://postimg.cc/w71zYy3R)
 
 ## Features
 
